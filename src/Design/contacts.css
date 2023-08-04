@@ -1,0 +1,23 @@
+div.contacts_content {
+    padding: 40px 50px 18px 40px;
+    
+    
+}
+div.contacts_section_1 {
+    display: flex;
+}
+div.subsection {
+    width: 33.33333%;
+    
+}
+
+div.contacts_picture img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+   
+}
+div.contacts_picture {
+    padding-left: 2%;
+    padding-right: 2%;
+}
